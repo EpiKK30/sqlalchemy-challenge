@@ -55,4 +55,5 @@ Queries the dates and temperature observations of the most-active station for th
 ### Temperature Stats Route
 Returns a JSON list of temperature statistics (minimum, average, and maximum) for a specified start or start-end range, enabling users to access temperature data for specific periods.
 
-Follow the provided hints and guidelines to ensure successful completion of the project. Happy vacation planning and enjoy your time in Honolulu, Hawaii! 🌴☀️
+### Resources Utilized
+In completing this challenge, I utilized various resources, including the GWU Bootcamp Xpert Learning Assistant, online resources, and assistance from ChatGPT. These resources provided valuable guidance and support throughout the project, contributing to its successful completion.
